@@ -1,0 +1,5 @@
+[functions.customer-api]
+verify_jwt = false
+
+[functions.whatsapp-api]
+verify_jwt = false
